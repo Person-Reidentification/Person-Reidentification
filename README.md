@@ -9,6 +9,7 @@ Partitioned data: 76 half-mh
 Bytrack outputs: 11 half-mh
 
 Cvat(refine bytrack) outputs:4 half-mh
+
 Cvat(refine bytrack) verify: 0 half-mh
 
 Reid outputs: 1 half-mh is adapted in 2 cameras

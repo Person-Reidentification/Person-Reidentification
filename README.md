@@ -1,18 +1,20 @@
 # Person-Reidentification
 
 Work progress report:
-Time units are in movie hours(mh)
+
+Time units are in movie half-hours(mhh)
+
 All data: 548 + 216 houres
 
-Partitioned data: 76 half-mh
+Partitioned data: 76 mhh
 
-Bytrack outputs: 11 half-mh
+Bytrack outputs: 11 mhh
 
-Cvat(refine bytrack) outputs:4 half-mh
+Cvat(refine bytrack) outputs:4 mhh
 
-Cvat(refine bytrack) verify: 0 half-mh
+Cvat(refine bytrack) verify: 0 mhh
 
-Reid outputs: 1 half-mh is adapted in 2 cameras
+Reid outputs: 1 mhh is adapted in 2 cameras
 
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph) -->

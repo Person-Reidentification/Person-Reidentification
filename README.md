@@ -25,9 +25,7 @@ Reid outputs: 1 match from 2 cameras
       "x": {"field": "a","type": "ordinal"},
       "y": {"field": "b","type": "quantitative"}},
     "width": 500,
-    "height": 400
-    }
-      
+    "height": 400 
       
 }
 '''

@@ -19,6 +19,6 @@ Reid outputs: 1 mhh is adapted in 2 cameras
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-![Screenshot (16)](https://github.com/Person-Reidentification/Person-Reidentification/assets/68585351/8fdf240c-abd2-4f38-ab15-3b707009c0a8)
 
 
+![Screenshot (18)](https://github.com/Person-Reidentification/Person-Reidentification/assets/68585351/089c78b2-d4d3-419d-acfa-a531c6dfdd64)

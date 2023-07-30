@@ -12,7 +12,7 @@ Bytrack outputs: 11 mhh
 
 Cvat(refine bytrack) outputs:4 mhh
 
-Cvat(refine bytrack) verify: 0 mhh
+Cvat(refine bytrack) verify: 1 mhh
 
 Reid outputs: 1 mhh is adapted in 2 cameras
 

@@ -1,5 +1,3 @@
-# Person-Reidentification
-
 # IRIUST Dataset
 
 This dataset is being completed...
@@ -52,34 +50,11 @@ In bbox "D1_F29115_ID5.jpg", "D1" is the name of the first camera.
 "ID5" is the name of the 5th identity in synchronized cameras.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Work progress report:
+### Work progress report:
 
 Time units are in movie half-hours(mhh)
 
-All data: 548 + 216 houres
+<!-- All data: 548 + 216 houres
 
 Partitioned data: 76 mhh
 
@@ -89,7 +64,7 @@ Cvat(refine bytrack) outputs:4 mhh
 
 Cvat(refine bytrack) verify: 1 mhh
 
-Reid outputs: 1 mhh is adapted in 2 cameras
+Reid outputs: 1 mhh is adapted in 2 cameras-->
 
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
